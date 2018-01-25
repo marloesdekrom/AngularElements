@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.0",
+    "libraryName": "angular-elements",
+    "libraryId": "eb87c85b-2bf9-4aed-819b-5e5813d1a138",
+    "environment": "onprem"
+  }
+}

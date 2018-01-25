@@ -1,0 +1,11 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "angular-elements-client-side-solution",
+    "id": "eb87c85b-2bf9-4aed-819b-5e5813d1a138",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/angular-elements.sppkg"
+  }
+}

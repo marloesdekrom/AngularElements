@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/angularElements/AngularElementsWebPart.js",
+      "manifest": "./src/webparts/angularElements/AngularElementsWebPart.manifest.json",
+      "outputPath": "./dist/angular-elements-web-part.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "AngularElementsWebPartStrings": "webparts/angularElements/loc/{locale}.js"
+  }
+}
